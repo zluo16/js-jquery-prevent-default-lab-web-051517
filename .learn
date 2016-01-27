@@ -1,6 +1,8 @@
 tags:
-  - a tag
+  - prevent default
+  - jquery
+  - event object
 languages:
-  - a language
+  - jQuery
 resources: 
   - 0
