@@ -5,16 +5,12 @@
 
 ## Intro
 
-build a mini-to do list app with a form that doesn't refresh new page, uses `append` to add list item to a div of items to do
+You are going to be building a mini single page to-do list app. You'll want to use preventDefault to prevent the form submission from refreshing the page. Remember, this app is only running client-side code. We don't have a database, so if that page refreshes, you'll lose all your items on your list.
 
 ## Instructions
 
-needs tests
+You'll be coding your solution in `index.html` and `js/script.js`. You'll want to make sure that `index.html` has a form with a text input field, and an ordered list that the to-do list item to the list. 
 
-should work in browser and in tests
+You'll want to bind a `submit` event to the form. The event should add the user's input to the list. You'll want to make sure the page doesn't refresh so that you can add multiple items to the list. 
 
-form with text input field to add an item to a todo list. should use `submit` event handler to submit form, but don't want page to refresh, needs to instead append text to div to display all to do items
-
-not working with backend so when refresh page, data lost. 
-
-all events should use console.log in tests use spy to see what is logged
+There are tests, so make sure your work passes the tests!
