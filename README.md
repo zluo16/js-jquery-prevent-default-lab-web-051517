@@ -18,3 +18,4 @@ form with text input field to add an item to a todo list. should use `submit` ev
 not working with backend so when refresh page, data lost. 
 
 all events should use console.log in tests use spy to see what is logged
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab' title='Prevent Default Lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
