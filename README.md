@@ -14,3 +14,5 @@ You'll be coding your solution in `js/script.js`. We've already built out the HT
 You'll need to define a function `submitForm` which binds a `submit` event to the form. The event should add the user's input to the list. You'll want to make sure the page doesn't refresh so that you can add multiple items to the list.  The function should be defined outside the document ready and called inside of it.
 
 There are tests, so make sure your work passes the tests!
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab' title='Prevent Default Lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
